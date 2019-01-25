@@ -31,7 +31,9 @@
         <item name="actionBarWidgetTheme">@null</item>
         <item name="actionBarTheme">@style/ActionBarTheme</item>
         <item name="actionBarPopupTheme">@style/ActionBarPopupTheme</item>
+        <item name="actionModeBackground">@color/tool_bar_color</item>
 
+        <item name="android:actionModeBackground">@color/tool_bar_color</item>
         <item name="android:windowBackground">@color/window_background</item>
         <item name="android:colorPrimaryDark">@color/primary_dark</item>
         <item name="android:colorPrimary">@color/primary</item>
